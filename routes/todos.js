@@ -9,7 +9,7 @@ router
 
     // save the todo
     newTodo
-      .save()
+      .save({timeout:10000})
       .then(() => {
         console.log("Successful added her memo!");
         res.redirect("/");
