@@ -3,5 +3,23 @@
     "ejs": "^3.1.9",
     "express": "^4.18.2",
     "mongoose": "^7.2.3"
-  }
+  },
+  "name": "her_diary",
+  "description": "it is just her diary she will be writing how her day was",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gilugali/love_diary.git"
+  },
+  "author": "justin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gilugali/love_diary/issues"
+  },
+  "homepage": "https://github.com/Gilugali/love_diary#readme"
 }
